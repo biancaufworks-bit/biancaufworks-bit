@@ -16,7 +16,6 @@
 <h4 style = 'color:purple'>➭ Ahh e também gosto demais de treinar meu inglês, tenho um nível avançado, por volta do C1. Consigo escrever, ler falar e ouvir muito bem, não fiz curso, eu aprendi sozinha quando era criança, mas fazendo alguns testes, o C1 foi o que melhor indicou meu nível na linguagem.</h4>
 
 <h3 style = 'color:purple'> ⚪  Linguagens e Tecnologias que mais utilizo : </h3>
-<img width="400" height="400" alt="html-css" src="" />
 
 
 <img width="126" height="100" alt ="javaIcon" src="https://github.com/user-attachments/assets/e64d0bf4-6c01-4253-b10d-42cc7df6074b" />
