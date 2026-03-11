@@ -7,9 +7,9 @@
 
 
 <h4 style = 'color:purple'>➭ Sou Aluna do terceiro ano do ensino médio na UniVap Centro e faço o curso técnico de Informática!</h4>
-<h4 style = 'color:purple'>➭ Planejo em fazer faculdade em Engenharia de Software e Cyebrsegurança. </h4>
+<h4 style = 'color:purple'>➭ Planejo em fazer faculdade em Engenharia de Software e Cybersegurança. </h4>
 <h4 style = 'color:purple'>➭ Mais pra frente vou procurar estágios para ter melhor experiência na área de TI.</h4>
-<h4 style = 'color:purple'>➭ Gosto muuito de cachorrinhos, tenho uma inclusive. Amoo a cor roxo, desenhar, jogar, programar, pintar, fazer artesanatos, sair, criar memórias e procurar me desafiar quanto a desenvolver projetos que mostram minhas habilidades e lógica.</h4>
+<h4 style = 'color:purple'>➭ Gosto muito de caezinhos, tenho uma inclusive. Amo a cor roxo, desenhar, jogar, programar, pintar, fazer artesanatos, sair, criar memórias e procurar me desafiar quanto a desenvolver projetos que mostram minhas habilidades e lógica.</h4>
 
 <img width="326" height="320" alt="1773184302073" src="https://github.com/user-attachments/assets/604df3b5-1ebe-45a5-ad2d-e790c2a4d35c" />
 <h6>Meet Mia! My elderly pug, but still a young lady.</h6>
