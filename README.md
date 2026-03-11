@@ -17,6 +17,7 @@
 
 <h3 style = 'color:purple'> ⚪  Linguagens e Tecnologias que mais utilizo : </h3>
 
+
 <img width="126" height="100" alt ="javaIcon" src="https://github.com/user-attachments/assets/4c5f8d9b-64e5-4f5f-a323-b359eb7d3f12" />
 <img width="126" height="100" alt ="jsIcon" src="https://github.com/user-attachments/assets/0bda2131-5a3d-4f1f-a738-b2c41ae4c77f" />
 <img width="90" height="90" alt="Kotlin_Icon" src="https://github.com/user-attachments/assets/195a7556-9678-4127-a349-111442c2b15e" />
