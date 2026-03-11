@@ -2,14 +2,16 @@
 
 <h3 style = 'color:purple'> ⚪  Quem sou eu? ✩</h3>
 
-![pugGIF](https://github.com/user-attachments/assets/7b055db0-9633-4584-bd0f-22c1094369de)
+![pugGIF](https://github.com/user-attachments/assets/2364fc60-f4e7-46be-b5c2-fd0b871fb7fa)
+
 
 
 <h4 style = 'color:purple'>➭ Sou Aluna do terceiro ano do ensino médio na UniVap Centro e faço o curso técnico de Informática!</h4>
 <h4 style = 'color:purple'>➭ Planejo em fazer faculdade em Engenharia de Software e Cyebrsegurança. </h4>
 <h4 style = 'color:purple'>➭ Mais pra frente vou procurar estágios para ter melhor experiência na área de TI.</h4>
 <h4 style = 'color:purple'>➭ Gosto muuito de cachorrinhos, tenho uma inclusive. Amoo a cor roxo, desenhar, jogar, programar, pintar, fazer artesanatos, sair, criar memórias e procurar me desafiar quanto a desenvolver projetos que mostram minhas habilidades e lógica.</h4>
-<img width="326" height="320" alt="1773184302073" src="https://github.com/user-attachments/assets/cf2e2b81-9f7f-495a-8171-b01ed47e751e" />
+
+<img width="773" height="791" alt="1773184302073" src="https://github.com/user-attachments/assets/604df3b5-1ebe-45a5-ad2d-e790c2a4d35c" />
 <h6>Meet Mia! My elderly pug, but still a young lady.</h6>
 <h4 style = 'color:purple'>➭ Ahh e também gosto demais de treinar meu inglês, tenho um nível avançado, por volta do C1. Consigo escrever, ler falar e ouvir muito bem, não fiz curso, eu aprendi sozinha quando era criança, mas fazendo alguns testes, o C1 foi o que melhor indicou meu nível na linguagem.</h4>
 
