@@ -23,8 +23,9 @@
 <img width="90" height="90" alt="Kotlin_Icon" src="https://github.com/user-attachments/assets/613696ed-7491-4226-8197-61259e89a515" />
 <img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/79e0623a-2f5e-44a3-aa98-f3b6bf8c008d" />
 <img width="90" height="100" alt="Logo_C_sharp svg" src="https://github.com/user-attachments/assets/8fe29b94-b4b9-4844-87d1-8ced12af0db5" />
-<img width="150" height="150" alt="html-css" src="html-css" src="https://github.com/user-attachments/assets/7421bfc0-44b6-476d-9061-499d15d90947" />
 <img width="150" height="124" alt="mysql-5-logo-png-transparent" src="https://github.com/user-attachments/assets/2ade52ec-b7aa-42da-85ac-b3bbb53804d9" />
+<img width="150" height="150" alt="html-css" src="https://github.com/user-attachments/assets/c35a168b-27af-4166-b717-9a6656aba149" />
+
 
 
 
