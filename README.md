@@ -18,23 +18,25 @@
 <h3 style = 'color:purple'> ⚪  Linguagens e Tecnologias que mais utilizo : </h3>
 
 
-<img width="126" height="100" alt ="javaIcon" src="https://github.com/user-attachments/assets/4c5f8d9b-64e5-4f5f-a323-b359eb7d3f12" />
-<img width="126" height="100" alt ="jsIcon" src="https://github.com/user-attachments/assets/0bda2131-5a3d-4f1f-a738-b2c41ae4c77f" />
-<img width="90" height="90" alt="Kotlin_Icon" src="https://github.com/user-attachments/assets/195a7556-9678-4127-a349-111442c2b15e" />
-<img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/1fca8fe3-052c-4ed1-914d-5bd80b854cef" />
-<img width="90" height="100" alt="Logo_C_sharp svg" src="https://github.com/user-attachments/assets/00a97367-7532-4e93-98d2-60379ddc7165" />
-<img width="150" height="150" alt="html-css" src="https://github.com/user-attachments/assets/ffe988fa-55e7-443f-a51d-26e7f89d74e1" />
-<img width="150" height="124" alt="mysql-5-logo-png-transparent" src="https://github.com/user-attachments/assets/7c9a32db-d520-49b6-be02-7b86612ebc06" />
+<img width="126" height="100" alt ="javaIcon" src="https://github.com/user-attachments/assets/e64d0bf4-6c01-4253-b10d-42cc7df6074b" />
+<img width="126" height="100" alt ="jsIcon" src="https://github.com/user-attachments/assets/b8db9b5d-42e3-47bd-a44e-b6a8da3023a3" />
+<img width="90" height="90" alt="Kotlin_Icon" src="https://github.com/user-attachments/assets/613696ed-7491-4226-8197-61259e89a515" />
+<img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/79e0623a-2f5e-44a3-aa98-f3b6bf8c008d" />
+<img width="90" height="100" alt="Logo_C_sharp svg" src="https://github.com/user-attachments/assets/8fe29b94-b4b9-4844-87d1-8ced12af0db5" />
+<img width="150" height="150" alt="html-css" src="html-css" src="https://github.com/user-attachments/assets/135eb3c3-3eac-421d-bfa5-05497fb36226" />
+<img width="150" height="124" alt="mysql-5-logo-png-transparent" src="https://github.com/user-attachments/assets/2ade52ec-b7aa-42da-85ac-b3bbb53804d9" />
+
 
 
 <h3 style = 'color:purple'> ⚪ Não tenho domínio sobre mas aprendi : </h3>
-<img width="100" height="100" alt="mongodb_original_wordmark_logo_icon_146425" src="https://github.com/user-attachments/assets/388ea91f-33ca-4057-9d1e-934a994f1c45" />
-<img width="150" height="100" alt="php-1-logo-png-transparent" src="https://github.com/user-attachments/assets/f783dad5-9e46-4690-b158-630a5c66d28d" />
-<img width="90" height="100" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/30a1aac2-dfb2-4d8b-98c0-fe9216ef842d" />
-<img width="200" height="100" alt="Official_unity_logo" src="https://github.com/user-attachments/assets/8f045a6b-a113-43fb-83cd-79515b525114" />
+<img width="100" height="100" alt="mongodb_original_wordmark_logo_icon_146425" src="https://github.com/user-attachments/assets/85717f9f-b429-4b40-892d-e5eae7bfe1a2" />
+<img width="150" height="100" alt="php-1-logo-png-transparent" src="https://github.com/user-attachments/assets/aeed3f96-796a-4c6b-8455-4f730d3e5b8e" />
+<img width="90" height="100" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/fb1e73bc-2557-432b-88e1-c068a051acb5" />
+<img width="200" height="100" alt="Official_unity_logo" src="https://github.com/user-attachments/assets/1770516a-39f9-4e06-aa97-5a14633d2f9d" />
 
 <br>
 <br>
-<img width="1000" height="400" alt="pixel-flowers-header" src="https://github.com/user-attachments/assets/67e3d909-627d-4c38-9f02-2a9df080e1a4" />
+
+<img width="1000" height="400" alt="pixel-flowers-header" src="https://github.com/user-attachments/assets/c0295c1b-5d9a-4e02-bb78-9ca66397c94f" />
 
 
