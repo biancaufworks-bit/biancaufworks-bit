@@ -11,7 +11,7 @@
 <h4 style = 'color:purple'>➭ Mais pra frente vou procurar estágios para ter melhor experiência na área de TI.</h4>
 <h4 style = 'color:purple'>➭ Gosto muuito de cachorrinhos, tenho uma inclusive. Amoo a cor roxo, desenhar, jogar, programar, pintar, fazer artesanatos, sair, criar memórias e procurar me desafiar quanto a desenvolver projetos que mostram minhas habilidades e lógica.</h4>
 
-<img width="250" height="250" alt="1773184302073" src="https://github.com/user-attachments/assets/604df3b5-1ebe-45a5-ad2d-e790c2a4d35c" />
+<img width="326" height="320" alt="1773184302073" src="https://github.com/user-attachments/assets/604df3b5-1ebe-45a5-ad2d-e790c2a4d35c" />
 <h6>Meet Mia! My elderly pug, but still a young lady.</h6>
 <h4 style = 'color:purple'>➭ Ahh e também gosto demais de treinar meu inglês, tenho um nível avançado, por volta do C1. Consigo escrever, ler falar e ouvir muito bem, não fiz curso, eu aprendi sozinha quando era criança, mas fazendo alguns testes, o C1 foi o que melhor indicou meu nível na linguagem.</h4>
 
